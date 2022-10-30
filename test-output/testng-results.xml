@@ -2,44 +2,44 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-30T09:19:32Z" name="Default suite" finished-at="2022-10-30T09:19:53Z" duration-ms="21504">
+  <suite started-at="2022-10-30T09:50:57Z" name="Default suite" finished-at="2022-10-30T09:51:20Z" duration-ms="23548">
     <groups>
     </groups>
-    <test started-at="2022-10-30T09:19:32Z" name="Default test" finished-at="2022-10-30T09:19:53Z" duration-ms="21504">
+    <test started-at="2022-10-30T09:50:57Z" name="Default test" finished-at="2022-10-30T09:51:20Z" duration-ms="23548">
       <class name="AmazonTests.AmazonTestBM">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:AmazonTests.AmazonTestBM@146dfe6]" started-at="2022-10-30T09:19:32Z" name="setUp" finished-at="2022-10-30T09:19:43Z" duration-ms="10814" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:AmazonTests.AmazonTestBM@1fc32e4f]" started-at="2022-10-30T09:50:57Z" name="setUp" finished-at="2022-10-30T09:51:08Z" duration-ms="11557" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="appPageUrlTest()[pri:0, instance:AmazonTests.AmazonTestBM@146dfe6]" started-at="2022-10-30T09:19:43Z" name="appPageUrlTest" finished-at="2022-10-30T09:19:43Z" duration-ms="110" status="PASS">
+        <test-method signature="appPageUrlTest()[pri:0, instance:AmazonTests.AmazonTestBM@1fc32e4f]" started-at="2022-10-30T09:51:08Z" name="appPageUrlTest" finished-at="2022-10-30T09:51:08Z" duration-ms="89" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- appPageUrlTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:AmazonTests.AmazonTestBM@146dfe6]" started-at="2022-10-30T09:19:43Z" name="tearDown" finished-at="2022-10-30T09:19:43Z" duration-ms="425" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AmazonTests.AmazonTestBM@1fc32e4f]" started-at="2022-10-30T09:51:08Z" name="tearDown" finished-at="2022-10-30T09:51:08Z" duration-ms="277" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:AmazonTests.AmazonTestBM@146dfe6]" started-at="2022-10-30T09:19:43Z" name="setUp" finished-at="2022-10-30T09:19:48Z" duration-ms="4845" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:AmazonTests.AmazonTestBM@1fc32e4f]" started-at="2022-10-30T09:51:08Z" name="setUp" finished-at="2022-10-30T09:51:14Z" duration-ms="5044" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="pageTitleTest()[pri:0, instance:AmazonTests.AmazonTestBM@146dfe6]" started-at="2022-10-30T09:19:48Z" name="pageTitleTest" finished-at="2022-10-30T09:19:48Z" duration-ms="133" status="PASS">
+        <test-method signature="pageTitleTest()[pri:0, instance:AmazonTests.AmazonTestBM@1fc32e4f]" started-at="2022-10-30T09:51:14Z" name="pageTitleTest" finished-at="2022-10-30T09:51:14Z" duration-ms="142" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTitleTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:AmazonTests.AmazonTestBM@146dfe6]" started-at="2022-10-30T09:19:48Z" name="tearDown" finished-at="2022-10-30T09:19:49Z" duration-ms="287" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AmazonTests.AmazonTestBM@1fc32e4f]" started-at="2022-10-30T09:51:14Z" name="tearDown" finished-at="2022-10-30T09:51:14Z" duration-ms="278" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:AmazonTests.AmazonTestBM@146dfe6]" started-at="2022-10-30T09:19:49Z" name="setUp" finished-at="2022-10-30T09:19:53Z" duration-ms="4344" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:AmazonTests.AmazonTestBM@1fc32e4f]" started-at="2022-10-30T09:51:14Z" name="setUp" finished-at="2022-10-30T09:51:20Z" duration-ms="5706" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="seachBoxTest()[pri:0, instance:AmazonTests.AmazonTestBM@146dfe6]" started-at="2022-10-30T09:19:53Z" name="seachBoxTest" finished-at="2022-10-30T09:19:53Z" duration-ms="232" status="PASS">
+        <test-method signature="seachBoxTest()[pri:0, instance:AmazonTests.AmazonTestBM@1fc32e4f]" started-at="2022-10-30T09:51:20Z" name="seachBoxTest" finished-at="2022-10-30T09:51:20Z" duration-ms="170" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- seachBoxTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:AmazonTests.AmazonTestBM@146dfe6]" started-at="2022-10-30T09:19:53Z" name="tearDown" finished-at="2022-10-30T09:19:53Z" duration-ms="277" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AmazonTests.AmazonTestBM@1fc32e4f]" started-at="2022-10-30T09:51:20Z" name="tearDown" finished-at="2022-10-30T09:51:20Z" duration-ms="246" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
